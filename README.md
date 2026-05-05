@@ -1,4 +1,4 @@
-Flujo del sistema RAG
+⚙️ Flujo del sistema RAG
 Carga del documento
 Se utiliza PyPDFLoader para leer el PDF.
 División del texto
